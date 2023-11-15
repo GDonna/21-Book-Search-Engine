@@ -49,5 +49,5 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Links
 * Repo: https://github.com/GDonna/21-Book-Search-Engine.git
-* GitHub Deployment: 
+* GitHub Deployment:  https://gdonna.github.io/21-Book-Search-Engine/
 * Heroku Deployment: https://donna-book-searchengine-6f88d3bc7d3b.herokuapp.com/
